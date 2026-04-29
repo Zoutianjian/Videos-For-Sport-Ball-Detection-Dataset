@@ -1,4 +1,4 @@
-# Ball-Yolo-A-Sport-Ball-Dataset
+# Videos-For-Sport-Ball-Detection-Dataset
 Our data is divided into three categories: football, tennis, and table tennis, each stored in separate archives.  
 The dataset is constructed based on sports videos, all of which have been automatically desensitized using the YOLO26 model. 
 
